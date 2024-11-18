@@ -1,5 +1,7 @@
-# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-## AIM
+# EXP : 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## NAME : MOHAMED HAMEEM SAJITH J
+## REG NO : 212223240090
+## AIM :
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
 1. Import the necessary python modules.
